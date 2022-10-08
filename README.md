@@ -1,8 +1,10 @@
 # 347-Hours-Italian-Speech-Data-Collected-by-Mobile-Phone
-https://www.datatang.ai/datasets/247
+
 
 ## Description
 Italian languageaudio data captured by mobile phone , with total duration of 347 hours. It is recorded by 800 Italian native speakers, balanced in gender is balanced; the recording environment is quiet; all texts are manually transferred with high accuracy. This data set can be applied on automatic speech recognition, machine translation, and sound pattern recognition.
+
+For more details, please refer to the link: https://bit.ly/3xRlcz6
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 2 noise symbols, 5 special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
