@@ -4,7 +4,8 @@
 ## Description
 Italian languageaudio data captured by mobile phone , with total duration of 347 hours. It is recorded by 800 Italian native speakers, balanced in gender is balanced; the recording environment is quiet; all texts are manually transferred with high accuracy. This data set can be applied on automatic speech recognition, machine translation, and sound pattern recognition.
 
-For more details, please refer to the link: https://bit.ly/3xRlcz6
+For more details, please refer to the link: https://www.nexdata.ai/datasets/247?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
